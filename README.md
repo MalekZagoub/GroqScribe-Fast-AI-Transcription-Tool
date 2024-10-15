@@ -70,6 +70,7 @@
 <h2>Notes</h2>
 <ul>
   <li>The Groq Whisper API can transcribe long audio files, but re-encoding is necessary to reduce file size for optimal performance.</li>
-  <li>Ensure you have a
+   <li>Ensure you have a stable internet connection, as the app interacts with the Groq API for transcription.</li>
+</ul>
 
 
